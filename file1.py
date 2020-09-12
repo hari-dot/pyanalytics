@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-list=[1,2,3,4,4,5,6,7]
+list=[1,2,3,4,4,5,6,7,8]
 
 
 
